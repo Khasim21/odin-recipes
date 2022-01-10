@@ -1,0 +1,28 @@
+* {
+background-color: #fac998;
+}
+
+.caesar , .stitle{
+    background-color: #f28a5a;
+    height:auto;
+    width:250px;
+    height:35px;
+    border: 1mm ridge black;
+    border-style: inset;
+}
+
+.stitle {
+    width: 180px;
+}
+
+.main {
+    background-color: #f28a5a;
+    text-align:center;
+    height:140px;
+    width: 330px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+
+
